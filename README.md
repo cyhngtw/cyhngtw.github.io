@@ -7,7 +7,11 @@ Front end 	  content                   	project link
 07.10.- 12.10	 jQuery Day+Bootstrap-code review 5	
 14.10.- 19.10	 Typescript + Angular Day—code review 6	 
 21.10.--26.10	 Angular -code review 7	
+<<<<<<< HEAD
+28.10-31.10	 Team project-code review 8	
+=======
 28.10-31.10	 Team project-code review 8
+>>>>>>> 4c9d151e0142d98459e97265df1ce1a2f1c01313
 		
 		
 Back end 		
